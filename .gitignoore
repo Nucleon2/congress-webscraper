@@ -1,2 +1,5 @@
-.json
-.csv
+# Ignore all JSON files
+*.json
+
+# Ignore all CSV files
+*.csv
